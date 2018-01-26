@@ -23,7 +23,7 @@ Put the JSON object into $scope.mushrooms and bind that variable in your partial
 
 # data
 
-```
+```javascript
 {
     "mushrooms": {
         "mushroom0": {
