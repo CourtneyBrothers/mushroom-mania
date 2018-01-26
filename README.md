@@ -22,6 +22,8 @@ Load the JSON below into a new Firebase application rather than reading it from 
 Put the JSON object into $scope.mushrooms and bind that variable in your partial.
 
 # data
+
+```
 {
     "mushrooms": {
         "mushroom0": {
@@ -111,3 +113,5 @@ Put the JSON object into $scope.mushrooms and bind that variable in your partial
         }
     }
 }
+
+```
